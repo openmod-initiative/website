@@ -31,6 +31,15 @@ body {
   border-top: 1px solid #e5e5e5;
 }
 
+.footer a {
+  color: #777;
+  text-decoration: underline;
+}
+
+.footer a:hover {
+  color: #373737;
+}
+
 /* Customize container */
 @media (min-width: 768px) {
   .container {
